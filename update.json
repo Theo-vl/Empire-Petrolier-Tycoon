@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.0.1",
-  "apkUrl": "https://github.com/TON_PSEUDO_GITHUB/TON_DEPOT/releases/download/v1.0.1/app-release.apk",
-  "releaseNotes": "Améliorations majeures, optimisation des alertes de prix en direct et fluidification de l'interface graphique !"
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
+  "apkUrl": "",
+  "notes de version": "Version initiale stable"
 }
